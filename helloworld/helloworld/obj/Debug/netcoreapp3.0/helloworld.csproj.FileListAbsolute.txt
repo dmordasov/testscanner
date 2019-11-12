@@ -1,0 +1,10 @@
+C:\ozon\helloworld\helloworld\helloworld\bin\Debug\netcoreapp3.0\helloworld.exe
+C:\ozon\helloworld\helloworld\helloworld\bin\Debug\netcoreapp3.0\helloworld.deps.json
+C:\ozon\helloworld\helloworld\helloworld\bin\Debug\netcoreapp3.0\helloworld.runtimeconfig.json
+C:\ozon\helloworld\helloworld\helloworld\bin\Debug\netcoreapp3.0\helloworld.runtimeconfig.dev.json
+C:\ozon\helloworld\helloworld\helloworld\bin\Debug\netcoreapp3.0\helloworld.dll
+C:\ozon\helloworld\helloworld\helloworld\bin\Debug\netcoreapp3.0\helloworld.pdb
+C:\ozon\helloworld\helloworld\helloworld\obj\Debug\netcoreapp3.0\helloworld.AssemblyInfoInputs.cache
+C:\ozon\helloworld\helloworld\helloworld\obj\Debug\netcoreapp3.0\helloworld.AssemblyInfo.cs
+C:\ozon\helloworld\helloworld\helloworld\obj\Debug\netcoreapp3.0\helloworld.dll
+C:\ozon\helloworld\helloworld\helloworld\obj\Debug\netcoreapp3.0\helloworld.pdb
